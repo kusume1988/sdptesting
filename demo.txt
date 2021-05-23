@@ -2,5 +2,6 @@ This is master file
 hello nani
 hello nani
 content to merge
+thank you
 Totally differnt content
 
