@@ -1,5 +1,6 @@
 This is master file
 hello nani
+hello nani
 content to merge
 Totally differnt content
 
